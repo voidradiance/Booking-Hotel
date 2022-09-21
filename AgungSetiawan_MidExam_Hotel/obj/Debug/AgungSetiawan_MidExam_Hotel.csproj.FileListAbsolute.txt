@@ -1,0 +1,7 @@
+C:\Users\1573\source\repos\AgungSetiawan_MidExam_Hotel\AgungSetiawan_MidExam_Hotel\obj\Debug\AgungSetiawan_MidExam_Hotel.csproj.AssemblyReference.cache
+C:\Users\1573\source\repos\AgungSetiawan_MidExam_Hotel\AgungSetiawan_MidExam_Hotel\obj\Debug\AgungSetiawan_MidExam_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\1573\source\repos\AgungSetiawan_MidExam_Hotel\AgungSetiawan_MidExam_Hotel\bin\Debug\AgungSetiawan_MidExam_Hotel.exe.config
+C:\Users\1573\source\repos\AgungSetiawan_MidExam_Hotel\AgungSetiawan_MidExam_Hotel\bin\Debug\AgungSetiawan_MidExam_Hotel.exe
+C:\Users\1573\source\repos\AgungSetiawan_MidExam_Hotel\AgungSetiawan_MidExam_Hotel\bin\Debug\AgungSetiawan_MidExam_Hotel.pdb
+C:\Users\1573\source\repos\AgungSetiawan_MidExam_Hotel\AgungSetiawan_MidExam_Hotel\obj\Debug\AgungSetiawan_MidExam_Hotel.exe
+C:\Users\1573\source\repos\AgungSetiawan_MidExam_Hotel\AgungSetiawan_MidExam_Hotel\obj\Debug\AgungSetiawan_MidExam_Hotel.pdb
